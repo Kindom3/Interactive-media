@@ -6,3 +6,7 @@
 
 * [Instagram](https://www.instagram.com/kindom_d_/)
   
+### My Daily Blog Post
+
+* [week 1](2023_01_15.html)
+  
