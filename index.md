@@ -12,4 +12,4 @@
 
 * [Week 3 + 4](2023_01_15.md)
 
-* [Midterm](# Midterm Project.md u)
+* [Midterm](# Midterm Project.md)
