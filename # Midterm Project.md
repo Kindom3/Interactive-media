@@ -85,4 +85,5 @@ Load cell and HX711 amplifier chip soldering was a success. HX711 and load cell 
 
 ![Image](image5.png)
 
-Obtained new load cell, time to check if load cell functions
+Obtained new load cell, time to check if load cell functions.
+ doinng a saved page test
