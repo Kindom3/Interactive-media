@@ -8,8 +8,6 @@
   
 ### My Daily Blog Post
 
-* [week 1 + 2](2023_01_15.html)
-
 * [Week 3 + 4](2023_01_15.html)
 
 * [Midterm](# Midterm Project.html)
